@@ -1,0 +1,39 @@
+.our-aim-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 80vh;
+  /*border: 1px solid red;*/
+  margin: auto;
+  width: 80vw;
+  height: 50vh;
+  padding: 5px;
+}
+
+.our-aim-heading {
+  font-family: 'Helvetica';
+  font-size: 20px;
+  font-weight: 200;
+  color: rgba(0, 0, 0, 1);
+  border-bottom: 1px solid black;
+}
+.our-aim-image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  /*border: 1px solid red;*/
+}
+
+.our-aim-content {
+  font-family: 'Helvetica';
+  font-size: 18px;
+  font-weight: 200;
+  color: rgba(0, 0, 0, 1);
+  /*border: 1px solid red;*/
+}
+/*.our-aim-image {
+  height: 450px;
+  width: 450px;
+}*/

@@ -1,0 +1,30 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /*border: 1px solid red;*/
+}
+.not-found-heading {
+  font-family: 'Helvetica';
+  font-size: 24px;
+  font-weight: 500;
+  color: black;
+}
+.not-found-description {
+  font-family: 'Helvetica';
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  text-align: center;
+}
+.home-button {
+  border: 0.1px solid;
+  background-color: #393e46;
+  padding: 10px;
+  color: white;
+}
+
+.nav-link{
+    text-decoration: none;
+}

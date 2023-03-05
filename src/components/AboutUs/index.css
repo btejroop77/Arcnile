@@ -1,0 +1,28 @@
+.about-us-main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+  margin: auto;
+  padding: 50px;
+  height: 70vh;
+}
+
+.about-us-container {
+  display: flex;
+  flex-direction: row;
+  /*border: 1px solid green;*/
+  margin: auto;
+  padding: 10px;
+  width: 60%;
+  background-color: rgba(30, 30, 30, 0.1);
+}
+
+.about-us-heading {
+  font-family: 'Helvetica';
+  font-size: 16px;
+  /*border: 1px solid red;*/
+  padding: 20px;
+  margin: auto;
+}
