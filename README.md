@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view the figma file here
+
+https://www.figma.com/file/jvUQ2LaQaBi7NZjFzAi320/arcnile_furniture?node-id=0%3A1&t=leZu4zKxM3iLlRts-1
+
 ## Available Scripts
 
 In the project directory, you can run:
